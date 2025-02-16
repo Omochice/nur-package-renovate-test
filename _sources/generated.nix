@@ -19,13 +19,13 @@
   };
   pinact = {
     pname = "pinact";
-    version = "v1.2.0";
+    version = "v1.2.1";
     src = fetchFromGitHub {
       owner = "suzuki-shunsuke";
       repo = "pinact";
-      rev = "v1.2.0";
+      rev = "v1.2.1";
       fetchSubmodules = false;
-      sha256 = "sha256-OmWt4EyUHZyQDIj1Uro+bnC29MNi6wlXO2ksRP84F2U=";
+      sha256 = "sha256-WBKe398W9NXwZwiK6P5SDay45bFGkOf1+cmGlS+fWRc=";
     };
   };
 }
