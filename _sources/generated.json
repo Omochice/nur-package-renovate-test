@@ -43,11 +43,11 @@
             "name": null,
             "owner": "suzuki-shunsuke",
             "repo": "pinact",
-            "rev": "v1.2.1",
-            "sha256": "sha256-WBKe398W9NXwZwiK6P5SDay45bFGkOf1+cmGlS+fWRc=",
+            "rev": "v2.0.0",
+            "sha256": "sha256-SkzqbliWsMLa0BsSqfKzHYk2z8PvsM+nssRihRyH1s4=",
             "sparseCheckout": [],
             "type": "github"
         },
-        "version": "v1.2.1"
+        "version": "v2.0.0"
     }
 }
